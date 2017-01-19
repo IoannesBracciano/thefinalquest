@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1327950148 source:/home/john/prog/cpp/thefinalquest/main.cpp
+	<ncurses.h>
+	<string.h>
+	<vector>
+	<fstream>
+	<sstream>
+	<math.h>
+	<algorithm>
+	<time.h>
+
